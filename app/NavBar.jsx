@@ -24,7 +24,7 @@ const NavBar = () => {
             <ul className="flex flex-row lg:flex-col gap-10 mt-5 lg:mt-20 item-center justify-between">
             <li className="cursor-pointer group  hover:bg-slate-700 rounded-2xl lg:p-2 ">
               <a
-                href="https://drive.google.com/file/d/1LOQ78aMl-IIvqYqv6J0yXvEuek1o-X1X/view?usp=sharing"
+                href="https://drive.google.com/file/d/1WZB3S0zG0QQ4sgajlyPBT895I1D5AV-o/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
