@@ -9,7 +9,7 @@ const Skills = () => {
 
         <div className="flex flex-1 text-sm lg:regular-16 leading-7 flex-col lg:flex-row flexStart gap-3 ">
           <div className="flex flex-1 flex-col text-center gap-3  ">
-            <p>Proficient</p>
+            <p>Beginner</p>
             <p>
               HTML5 | CSS | Bootstrap | Tailwind | JavaScript | Typescript |
               React.js, | Next.js
