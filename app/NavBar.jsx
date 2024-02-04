@@ -12,7 +12,7 @@ import { RxDropdownMenu } from "react-icons/rx";
 const projectsLink = [
   {href: "https://van-visit-philippines-gem.vercel.app/", label: " Landing Page (SPA)"},
   {href: "https://vanprecilla-dev.github.io/to-do-app-webapi/", label: "To-Do-App (Web API)"},
-  {href: "https://vanprecilla-dev.github.io/to-do-app-react/", label: "To-Do-App (Local Storage)"},
+  {href: "https://vanprecilla-dev.github.io/to-do-app-react-v2/", label: "To-Do-App (Local Storage)"},
 ]
 
 const NavBar = () => {
