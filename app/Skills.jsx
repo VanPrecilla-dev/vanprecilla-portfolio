@@ -9,24 +9,24 @@ const Skills = () => {
 
         <div className="flex flex-1 text-sm lg:regular-16 leading-7 flex-col lg:flex-row flexStart gap-3 ">
           <div className="flex flex-1 flex-col text-center gap-3  ">
-            <p>Beginner</p>
+            <p>Diving Deeper into Learning</p>
             <p>
               HTML5 | CSS | Bootstrap | Tailwind | JavaScript | Typescript |
               React.js, | Next.js
             </p>
           </div>
           <div className="flex flex-1 flex-col text-center gap-3  ">
-            <p>Basic Knowledge</p>
+            <p>Learning the Ropes</p>
             <p>
               Angular | jQuery | SaaS | C++ | Java | PHP | Redux |
               Node.js | C# | SQL | MySQL | Git | GitHub
             </p>
           </div>
           <div className="flex flex-1 flex-col text-center gap-3  ">
-            <p>Other Skills</p>
+            <p>Diverse Skills</p>
             <p>
               Drawing | Graphic Design | Adobe Photoshop | Lightroom |
-              Illustrator | Canva.
+              Illustrator | Canva
             </p>
           </div>
         </div>
