@@ -25,7 +25,7 @@ const Skills = () => {
           <div className="flex flex-1 flex-col text-center gap-3  ">
             <p>Diverse Skills</p>
             <p>
-              Drawing | Graphic Design | Adobe Photoshop | Lightroom |
+              Drawing | Photography | Graphic Design | Adobe Photoshop | Lightroom |
               Illustrator | Canva
             </p>
           </div>
