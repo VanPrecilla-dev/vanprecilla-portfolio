@@ -12,7 +12,7 @@ const Skills = () => {
             <p>Diving Deeper into Learning</p>
             <p>
               HTML5 | CSS | Bootstrap | Tailwind | JavaScript | Typescript |
-              React.js, | Next.js
+              React.js, | Next.js | SEO
             </p>
           </div>
           <div className="flex flex-1 flex-col text-center gap-3  ">
