@@ -12,14 +12,14 @@ const Skills = () => {
             <p>Diving Deeper into Learning</p>
             <p>
               HTML5 | CSS | Bootstrap | Tailwind | JavaScript | Typescript |
-              React.js, | Next.js | SEO
+              React.js, | Next.js | Node.js | Express.js
             </p>
           </div>
           <div className="flex flex-1 flex-col text-center gap-3  ">
             <p>Learning the Ropes</p>
             <p>
               Angular | jQuery | SaaS | C++ | Java | PHP | Redux |
-              Node.js | C# | SQL | MySQL | Git | GitHub
+              C# | SQL | MySQL | Git | GitHub
             </p>
           </div>
           <div className="flex flex-1 flex-col text-center gap-3  ">

@@ -10,6 +10,7 @@ import { RxDropdownMenu } from "react-icons/rx";
 
 
 const projectsLink = [
+  {href: "https://github.com/VanPrecilla-dev/convochat.git", label: "Chat App (Full Stack)"},
   {href: "https://van-visit-philippines-gem.vercel.app/", label: " Landing Page (SPA)"},
   {href: "https://vanprecilla-dev.github.io/to-do-app-webapi/", label: "To-Do-App (Web API)"},
   {href: "https://vanprecilla-dev.github.io/to-do-app-react-v2/", label: "To-Do-App (Local Storage)"},
@@ -21,7 +22,7 @@ const NavBar = () => {
     <>
       <nav className=" relative lg:absolute flexStart flex-col lg:h-dvh max-container lg:max-container-navbar padding-container gap-3   z-30 py5  overflow-y-auto hide-scrollbar
         text-white border-b-8 lg:border-r-8 border-white">
-            <ul className="flex flex-row lg:flex-col gap-10 mt-5 lg:mt-20 item-center justify-between">
+            <ul className="flex flex-row lg:flex-col gap-5 mt-5 lg:mt-20 item-center justify-between">
             <li className="cursor-pointer group  hover:bg-slate-700 rounded-2xl lg:p-2 ">
               <a
                 href="https://drive.google.com/drive/folders/1t2bHXiNMT56YV8bjm1SiKSRlmlSI5x-l?usp=sharing"
@@ -55,10 +56,10 @@ const NavBar = () => {
           </ul>
     
      
-          <ul className="relative flex lg:flex-col gap-2 lg:gap-5 justify-between text-center font-lato  lg:m-10 lg:p-5 my-2 ">
+          <ul className="relative flex lg:flex-col gap-1 lg:gap-5 justify-between text-center font-lato  lg:m-10 lg:p-5 my-2 ">
             <h2 className="flex regular-16 lg:regular-40 tracking-widest">Projects</h2>
             {projectsLink.map((item, key) => (
-                  <li key={key} className=" flex  text-sm lg:regular-24  underline lg:leading-10 decoration-solid hover:bg-slate-700 rounded-2xl ">
+                  <li key={key} className=" flex  text-sm lg:regular-20  underline lg:leading-10 decoration-solid hover:bg-slate-700 rounded-2xl ">
                   <a
                     href={item.href}
                     target="_blank"
