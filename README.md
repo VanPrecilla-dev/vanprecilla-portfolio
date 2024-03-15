@@ -11,3 +11,5 @@ Project Overview:
 - The portfolio is a Single Page Application (literally one page).
 - It incorporates tsParticles for background animation.
 - The design is web-responsive, ensuring a seamless experience on both desktop and mobile views.
+
+![alt text](image.png)
